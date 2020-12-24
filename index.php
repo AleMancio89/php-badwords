@@ -15,3 +15,5 @@ $msg = 'Sei davvero una persona maleducata, hai sempre il solito comportamento d
 <p><?php echo $msg ?></p>
 <p>Il paragrafo è lungo <?php echo strlen($msg)?> caratteri</p>
 <p><?php echo str_replace($badword, '***', $msg) ?></p>
+
+<!-- Fine del secondo esercizio -->
