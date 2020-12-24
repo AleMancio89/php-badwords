@@ -1,4 +1,5 @@
 <?php 
+
 /*
 Creare una variabile con un paragrafo di testo.
 Recuperare dalla query string un parametro badword che contiene una parola definita dall'utente
